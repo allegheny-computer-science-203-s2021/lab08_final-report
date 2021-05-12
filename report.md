@@ -8,8 +8,8 @@ TODO: Please use an "X" symbol to indicate if you completed the specified task.
 - [ ] Contributed to the GitHub Pull Requests.
 - [ ] Used a project board and contributed to the management of the board.
 - [ ] Commits merged to the main branch on GitHub.
-- [ ] Assessed your development of software engineering skills.
-- [ ] Wrote sentences about your software engineering skills.
+- [ ] Assessed your development of software engineering skills in the assessment document.
+- [ ] Wrote sentences about your software engineering skills in the assessment document.
 - [ ] Completed all writing tasks in this report document.
 
 ## Code of Conduct
