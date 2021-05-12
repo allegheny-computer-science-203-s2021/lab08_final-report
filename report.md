@@ -26,6 +26,8 @@ TODO: Please answer yes or no to this question. If you answer yes to this questi
 
 TODO: Please provide references to the five most important GitHub issues to which you contributed for the project.
 
+Issues:
+
 - [Issue](Add a URL)
 - [Issue](Add a URL)
 - [Issue](Add a URL)
@@ -33,6 +35,8 @@ TODO: Please provide references to the five most important GitHub issues to whic
 - [Issue](Add a URL)
 
 TODO: Please provide references to all GitHub pull requests to which you contributed during this project.
+
+PRs:
 
 - [PR](Add a URL)
 - [PR](Add a URL) ...
